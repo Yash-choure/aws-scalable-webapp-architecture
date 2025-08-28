@@ -95,11 +95,12 @@ Original application code:
 
 ## 👤 Author
 
-**Your Name**  
+Yash Choure 
 💼 Cloud / DevOps Engineer  
 
 ---
 
 ✨ *This project was a hands-on journey into deploying scalable Java web applications in the AWS cloud — a real-world architecture designed for performance, security, and growth.*  
+
 
 
