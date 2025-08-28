@@ -10,7 +10,7 @@ This repository is a **case study and walkthrough** of how I designed and deploy
 
 To ensure **speed, scalability, security, and reliability**, I designed the following AWS architecture:
 
-![AWS Architecture Diagram](./architecture-diagram.png) <!-- You can add your diagram file here -->
+![AWS Architecture Diagram](./architecure.png) <!-- You can add your diagram file here -->
 
 ---
 
@@ -101,4 +101,5 @@ Original application code:
 ---
 
 ✨ *This project was a hands-on journey into deploying scalable Java web applications in the AWS cloud — a real-world architecture designed for performance, security, and growth.*  
+
 
